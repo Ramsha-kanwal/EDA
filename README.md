@@ -1,2 +1,2 @@
-# EDA
-Exploratory data analysis
+My first repository
+Exploratory Data Analysis (EDA)
